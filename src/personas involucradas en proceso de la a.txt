@@ -1,0 +1,19 @@
+Ivone
+
+1. ¿Cuantas personas estan involucradas en el veneficio de la automatizacion?
+equipo de eficiencias tecnologicas 7
+2. ¿Cual es el impacto inmediato?
+   reduccion e tiempo para obtencion de tarifas 
+3.¿Reduccion de Tiempo?
+4. Permite realizar cosas que no hacian antes?
+   Distribuir el timepo en cursos, actividades variables 
+5.¿Que es lo que estan ahorrando?
+
+tiempo
+
+6¿Expectativa del desarrollo?
+    Ahorro de timepo para las tarifas
+7. ¿Para que se usa la consulta a cfe?
+    analisis de tendencias de tarifas
+8.¿Beneficio Personal?
+    tiempo y trabajo manual
